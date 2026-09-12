@@ -1,9 +1,9 @@
 import { StrictMode } from "react";
 import { createRoot } from "react-dom/client";
-import App from "./App";
-import "./dotcss/meee.css";
+import App from "./app";
+import "../dotcss/mee.css";
 
-createRoot(document.querySelector(".__meeee")).render(
+createRoot(document.querySelector(".--mee")).render(
     <StrictMode>
         <App />
     </StrictMode>,
