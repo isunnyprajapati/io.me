@@ -17,11 +17,11 @@ export const Wish = () => {
                     Home
                 </a>
                 <div className="flex flex-col justify-center items-start">
-                    <span className="font-semibold text-text-0 text-2xl">Wish</span>
+                    <span className="font-semibold text-text-0 text-2xl">iWish</span>
                     <span className="text-text-1 font-sans">Oct 13, 2026</span>
                 </div>
                 <div className="text-text-0">
-                    <p>I wish the time to go 8 years back.</p>
+                    <p>I wish times could be the way they were eight years ago.</p>
                 </div>
             </main>
         </div>

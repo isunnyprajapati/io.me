@@ -2,6 +2,8 @@ import { Mee } from "./mee";
 import { Routes, Route, Navigate } from "react-router";
 import { MoreMe } from "./more.me";
 import { Wish } from "./posts/wish";
+import { Listens } from "./posts/listens";
+import { Knowledge } from "./posts/knowledge";
 
 export default function App() {
     return (
@@ -9,6 +11,8 @@ export default function App() {
             <Route path="/" element={<Mee />} />
             <Route path="/~more" element={<MoreMe />} />
             <Route path="/posts/wish" element={<Wish />} />
+            <Route path="/posts/listens" element={<Listens />} />
+            <Route path="/posts/knowledge" element={<Knowledge />} />
             <Route
                 path="*"
                 element={
