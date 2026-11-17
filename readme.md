@@ -1,6 +1,6 @@
 ### About me 
 
-Hi, I'm Sunny, a Backend developer and Computer Science student.
+Hi, I'm Sunny, a backend developer and computer science student.
 
 I've written a variety of programs since my first year of university. Back when I was in middle and high school, I was mostly into games and new technologies. Right now, I primarily enjoy making web applications using tools and technologies that I've mentioned below.
 
@@ -15,3 +15,5 @@ I've written a variety of programs since my first year of university. Back when 
 #### Something  ·  [ecribe](https://ecribe.online)  ·  🛠️
 
 Arigatou! 👋🏻
+
+#### [MagiClick](https://iome.pages.dev)
